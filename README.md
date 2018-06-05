@@ -20,7 +20,7 @@ This is just a program which I made in my class, to simulate a linux Shell;
   <li><b>socpth FILE1 FILE2</b> -> It copies the content of FILE1 to FILE2 (using threads);</li>
   <li><b>rocket</b> -> It shows a rocket in the standard output (see https://helloacm.com/simple-cc-rocket-animation/ )</li>
   <li><b>jpg (or jpeg) FILE1</b> -> It checks if FILE1 is a JPEG file;</li>
-<ul>
+</ul>
 
 # Redirects, Pipes, Background/Foreground and Threads
 
